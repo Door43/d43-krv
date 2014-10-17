@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[krv:home|Door43 (krv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-krv|d43-krv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-krv/archive/master.zip|d43-krv.zip]]
+
+**Recent Changes**
+{{changes>ns = krv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/krv|Ethnologue data]]
+
